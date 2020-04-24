@@ -13,6 +13,8 @@ https://fr.m3uiptv.com/wp-content/plugins/download-attachments/includes/download
 https://m3u-iptv.com/wp-content/plugins/download-attachments/includes/download.php?id=30439
 #EXTINF:-1,US MUSIC
 https://m3u-iptv.com/wp-content/plugins/download-attachments/includes/download.php?id=29749
+#EXTINF:-1,UK CHANNELS
+https://m3u-iptv.com/wp-content/plugins/download-attachments/includes/download.php?id=28380
 #EXTINF:-1,SOUTH KOREA
 https://iptvcat.com/south_korea?.m3u8
 #EXTINF:-1,CCTV
